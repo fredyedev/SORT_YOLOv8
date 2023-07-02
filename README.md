@@ -3,7 +3,7 @@ This implemetation was based from the original implementation: [abewley/sort](ht
 
 ![](sout.gif)
 
-We combine Deep SORT implementation with YOLOv8 Detector for experiments:
+We combine SORT implementation with YOLOv8 Detector for experiments:
 
 Multiple Object Tracking:
    - Multiple Object Tracking with historical trajectory
